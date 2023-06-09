@@ -104,3 +104,23 @@
 * I get to the report editor:
 
 ![](/screenshots/2023-06-09-11-41-29.png)
+
+* I dragged all the fields from the LHS, into the Detail 1 section like so:
+
+![](/screenshots/JaseperReport.gif)
+
+* This adds the name of the fields and their values!
+
+* I click on the preview tab and see the following:
+
+![](/screenshots/2023-06-09-13-50-45.png)
+
+* I wonder why I'm only seeing one row of data, googling leads me to [this stackoverflow article](https://stackoverflow.com/questions/34759035/why-only-one-row-is-showing-in-report)
+
+* I realise that my fields are in the Column header band when it SHOULD be in the detail band. I correct this in the design tab:
+
+![](/screenshots/2023-06-09-13-53-00.png)
+
+* Clicking on the Preview tab now shows me:
+
+![](/screenshots/2023-06-09-13-54-20.png)
