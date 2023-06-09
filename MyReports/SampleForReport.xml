@@ -1,0 +1,42 @@
+<CATALOG>
+    <CD>
+        <TITLE>Sleeping with Ghosts</TITLE>
+        <ARTIST>Placebo</ARTIST>
+        <COUNTRY>UK</COUNTRY>
+        <COMPANY>Sony Music</COMPANY>
+        <PRICE>8.95</PRICE>
+        <YEAR>2003</YEAR>
+    </CD>
+    <CD>
+        <TITLE>Life After</TITLE>
+        <ARTIST>Palace</ARTIST>
+        <COUNTRY>UK</COUNTRY>
+        <COMPANY>Sony Music</COMPANY>
+        <PRICE>8.95</PRICE>
+        <YEAR>2019</YEAR>
+    </CD>
+    <CD>
+        <TITLE>Madvillainy</TITLE>
+        <ARTIST>MF DOOM</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>Eros Music</COMPANY>
+        <PRICE>9.95</PRICE>
+        <YEAR>2004</YEAR>
+    </CD>
+    <CD>
+        <TITLE>Twilight</TITLE>
+        <ARTIST>Boa</ARTIST>
+        <COUNTRY>UK</COUNTRY>
+        <COMPANY>Warner Bros Music</COMPANY>
+        <PRICE>6.95</PRICE>
+        <YEAR>2001</YEAR>
+    </CD>
+    <CD>
+        <TITLE>Loud Like Love</TITLE>
+        <ARTIST>Placebo</ARTIST>
+        <COUNTRY>UK</COUNTRY>
+        <COMPANY>Sony Music</COMPANY>
+        <PRICE>8.95</PRICE>
+        <YEAR>2013</YEAR>
+    </CD>
+</CATALOG>
