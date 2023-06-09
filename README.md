@@ -79,4 +79,28 @@
 </CATALOG>
 ```
 
-* I create a new report
+* I create a new report and set the Data Source using the above XML - I check the box to use XPath within the report:
+
+![](/screenshots/2023-06-09-11-31-39.png)
+
+* Clicking finish updates the Data Source wizard:
+
+![](/screenshots/2023-06-09-11-33-28.png)
+
+* I specify the nodes of where the data is being provided:
+
+![](/screenshots/2023-06-09-11-36-29.png)
+
+* I click on next and see the Field window:
+
+![](/screenshots/2023-06-09-11-37-16.png)
+
+* I move the required fields to the RHS:
+
+![](/screenshots/2023-06-09-11-38-28.png)
+
+* I click next which displays the Group By window but I don't want any groupings. So I click next and Finish
+
+* I get to the report editor:
+
+![](/screenshots/2023-06-09-11-41-29.png)
